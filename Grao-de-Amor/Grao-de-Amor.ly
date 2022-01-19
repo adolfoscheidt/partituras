@@ -5,9 +5,8 @@
   title = "Grão de Amor"
   composer = "Arnaldo Antunes"
   tagline = \markup {
-    Transcrição feita por Adolfo Scheidt em 
-    \simple #(strftime "%d/%m/%Y" (localtime (current-time)))
-    (\italic{e-mail}: scheidtadolfo@gmail.com)
+    Transcrição feita por Adolfo Scheidt. Acesse online em: \with-url #"https://github.com/adolfoscheidt/partituras.git"
+    https://github.com/adolfoscheidt/partituras.git
   }
 }
 
